@@ -8,7 +8,8 @@ Take this sample necklase and the requirements: <br></br>
 - Range [0,2] can have only one unique color
 - Range [2,3] can have only two unique colors
 - Range [3,4] can have only one unique color
-Is it possible to make such necklace? Yes. It can be either RRRBB or BBBRR. \
+Is it possible to make such necklace? Yes. It can be either RRRBB or BBBRR.
+<br></br>
 Lets take another example:
 - Range [0,5] - one color
 - Range [1,3] - two colors <br></br>
