@@ -20,7 +20,7 @@ In the first case, the range [2,3] is not a full subrange of [0,5] or [1,3], so 
 Observation 1: \
 If a range of two unique colors is a subrange of one unique color, return false. (Otherwise, return true??????)\
 Will every other case be true? Let's see.
-Let's take this example:
+Let's take this example:<br></br>
 <img width="413" alt="image" src="https://github.com/N4m3N1ck/Competitive-Programming/assets/138298706/d1c6291d-9d51-4814-bcfc-4ab1e0b3fc91"><br></br>
 According to our established rules this is possible, right? No, it isn't. Why? \
 Let's take a look at the ranges [0,3] and [3,5]. They both can have only one color. And they also intersect. What does this mean? It means that these ranges have to have the same color, which means we can count them as one range.
