@@ -16,4 +16,3 @@ Lets take another example: <br>
 <br>
 It is not possible to make such a necklace, because range that requires two colors is a subrange of a range which requires one color, which is an impossible condition to satisfy.<br>
 ## Step 3: Break up the problem into subproblems
-hg
