@@ -11,9 +11,5 @@ Take this sample necklase and the requirements:<br>
 - Range [3,4] can have only one unique color
 Is it possible to make such necklace? Yes. It can be either RRRBB or BBBRR. <br>
 Lets take another example: <br>
-<br>
-<img width="301" alt="image" src="https://github.com/N4m3N1ck/Competitive-Programming.md/assets/138298706/098f50a5-32fb-4f4f-82dc-87cb427833e3"> <br>
-<br>
-It is not possible to make such a necklace, because range that requires two colors is a subrange of a range which requires one color, which is an impossible condition to satisfy.<br>
-# Handcrafted Gift
-Url to the problem statement: https://ioi.te.lv/locations/ioi20/contest/day0/gift.pdf
+
+## Step 3: Simplify the problem into subproblems
