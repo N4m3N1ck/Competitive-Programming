@@ -23,7 +23,7 @@ Will every other case be true? Let's see.
 Let's take this example:<br></br>
 <img width="413" alt="image" src="https://github.com/N4m3N1ck/Competitive-Programming/assets/138298706/d1c6291d-9d51-4814-bcfc-4ab1e0b3fc91"><br></br>
 According to our established rules this is possible, right? No, it isn't. Why? \
-Let's take a look at the ranges [0,3] and [3,5]. They both can have only one color. And they also intersect. What does this mean? It means that these ranges have to have the same color, which means we can count them as one range.
+Let's take a look at the ranges [0,3] and [3,5]. They both can have only one color. And they also intersect. What does this mean? It means that these ranges have to have the same color, which means we can count them as one range.<br></br>
 <img width="413" alt="image" src="https://github.com/N4m3N1ck/Competitive-Programming/assets/138298706/e25b5fb2-9242-4513-8923-2db76b05d94d"><br></br>
 Does this look familiar? Yes, this is the case in which 2 is subrange of 1, and we return false. \
 This is pretty much how you solve this problem. First, join all the intersecting ranges of one, and then check if there is a range of 2 unique colors which is a subrange of 1.
