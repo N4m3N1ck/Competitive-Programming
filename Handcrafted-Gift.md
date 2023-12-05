@@ -11,5 +11,4 @@ Take this sample necklase and the requirements:<br>
 - Range [3,4] can have only one unique color
 Is it possible to make such necklace? Yes. It can be either RRRBB or BBBRR. <br>
 Lets take another example:
-<img width="301" alt="image" src="https://github.com/N4m3N1ck/Competitive-Programming.md/assets/138298706/098f50a5-32fb-4f4f-82dc-87cb427833e3">
 ## Step 3: Simplify the problem into subproblems
