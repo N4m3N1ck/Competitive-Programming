@@ -13,6 +13,5 @@ Is it possible to make such necklace? Yes. It can be either RRRBB or BBBRR. <br>
 Lets take another example:
 - Range [0,5] - one color
 - Range [1,3] - two colors
-<br>
-Is this possible? No. Why? Because we can't satisfy both conditions. Why? Because two is a subrange of one. If two has two colors, then one has two colors which is not satisfying the condition.
+<br></br>Is this possible? No. Why? Because we can't satisfy both conditions. Why? Because two is a subrange of one. If two has two colors, then one has two colors which is not satisfying the condition.
 ## Step 3: Simplify the problem into subproblems
